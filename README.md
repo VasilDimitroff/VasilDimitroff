@@ -15,7 +15,7 @@
     <td>✔️ <a href="https://softuni.bg/certificates/details/78176/4bad2380" target="_blank">C# Basics 2020</a></td>
   </tr>
   <tr>
-    <td><a href="https://www.facebook.com/vbdimitrov/" target="_blank">Facebook: Vasil Dimitrow</a></td>
+    <td><a href="https://www.facebook.com/vbdimitrov/" target="_blank">Facebook: Vasil Dimitrov</a></td>
     <td>✔️ <a href="https://softuni.bg/certificates/details/86099/3cd8593a" target="_blank">C# Fundamentals 2020</a>	</td>
   </tr>
   <tr>
