@@ -3,7 +3,7 @@
 <br/>
 
 <!--[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=VasilDimitroff&layout=compact)](https://github.com/VasilDimitroff/github-readme-stats) -->
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=VasilDimitroff&layout=compact)](https://github.com/VasilDimitroff/github-readme-stats)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=VasilDimitroff&layout=compact)](https://github.com/VasilDimitroff?tab=repositories)
 
 <table>
   <tr>
@@ -33,6 +33,4 @@
     <td>✔️ <a href="https://softuni.bg/certificates/details/97936/fe7d3b0e" target="_blank">MS SQL Server 2021</a></td>
   </tr>
 </table>
-
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=VasilDimitroff&layout=compact)](https://github.com/VasilDimitroff?tab=repositories)
 
