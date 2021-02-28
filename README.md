@@ -1,6 +1,6 @@
 ### I’m currently learning Software engineering with C# at Software University 👋
 
-##My certificates
+## My certificates
 
 ✔️ <a href="https://softuni.bg/certificates/details/78176/4bad2380" target="_blank">C# Basics 2020</a>	
 <br/>
