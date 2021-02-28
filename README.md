@@ -13,7 +13,9 @@
 ✔️ <a href="https://softuni.bg/certificates/details/97936/fe7d3b0e" target="_blank">MS SQL Server 2021</a>	
 
 
-[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=VasilDimitroff)](https://github.com/VasilDimitroff)
+[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=VasilDimitroff)](https://github.com/VasilDimitroff/github-readme-stats)
+
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=VasilDimitroff)](https://github.com/VasilDimitroff/github-readme-stats)
 
 
 
