@@ -1,14 +1,3 @@
-<!DOCTYPE html>
-<html>
-<head>
-<style>
-table, th, td {
-  border: 1px solid black;
-}
-</style>
-</head>
- <body>
-
 ### I’m currently learning Software engineering with C# at Software University 👋
 
 # My certificates
@@ -24,6 +13,7 @@ table, th, td {
 ✔️ <a href="https://softuni.bg/certificates/details/97936/fe7d3b0e" target="_blank">MS SQL Server 2021</a>	
 
 
+[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=anuraghazra)](https://github.com/anuraghazra/github-readme-stats)
 
 
 
