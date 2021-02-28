@@ -22,11 +22,11 @@
 
 <table>
   <tr>
-    <th>Contact me</th>
-    <th>Certificates</th>
+    <th><b>Contact me</b></th>
+    <th><b>Certificates</b></th>
   </tr>
   <tr>
-    <td>January</td>
+    <td><a href="mailto:v.b.dimitrow@gmail.com" target="_blank">E-mail:</a></td>
     <td>✔️ <a href="https://softuni.bg/certificates/details/78176/4bad2380" target="_blank">C# Basics 2020</a></td>
   </tr>
   <tr>
