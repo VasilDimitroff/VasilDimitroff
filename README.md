@@ -1,3 +1,14 @@
+<!DOCTYPE html>
+<html>
+<head>
+<style>
+table, th, td {
+  border: 1px solid black;
+}
+</style>
+</head>
+ <body>
+
 ### I’m currently learning Software engineering with C# at Software University 👋
 
 # My certificates
@@ -11,3 +22,30 @@
 ✔️ <a href="https://softuni.bg/certificates/details/95698/fa9237cc" target="_blank">C# OOP 2020</a>	
 <br/>
 ✔️ <a href="https://softuni.bg/certificates/details/97936/fe7d3b0e" target="_blank">MS SQL Server 2021</a>	
+
+
+
+
+
+
+<table>
+  <tr>
+    <th>Contact me</th>
+    <th>Certificates</th>
+  </tr>
+  <tr>
+    <td>January</td>
+    <td>$100</td>
+  </tr>
+  <tr>
+    <td>February</td>
+    <td>$80</td>
+  </tr>
+  <tr>
+    <td colspan="2">Sum: $180</td>
+  </tr>
+</table>
+ 
+</body>
+</html>
+
