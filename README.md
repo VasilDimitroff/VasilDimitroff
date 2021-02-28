@@ -4,8 +4,15 @@
 
 <!--[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=VasilDimitroff&layout=compact)](https://github.com/VasilDimitroff/github-readme-stats) -->
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=VasilDimitroff&layout=compact)](https://github.com/VasilDimitroff/github-readme-stats)
-
-
+<style>
+  .center {
+  margin: auto;
+  width: 50%;
+  border: 3px solid green;
+  padding: 10px;
+}
+ </style>
+<div class="center">
 <table>
   <tr>
     <th><b>Contact me</b></th>
@@ -25,12 +32,13 @@
     <td>✔️ <a href="https://softuni.bg/certificates/details/90219/6c804cfb" target="_blank">C# Advanced 2020</a></td>
   </tr>
   <tr>
-    <td>February</td>
+    <td></td>
     <td>✔️ <a href="https://softuni.bg/certificates/details/95698/fa9237cc" target="_blank">C# OOP 2020</a>	</td>
   </tr>
   <tr>
     <tr>
-    <td>January</td>
+    <td></td>
     <td>✔️ <a href="https://softuni.bg/certificates/details/97936/fe7d3b0e" target="_blank">MS SQL Server 2021</a></td>
   </tr>
 </table>
+  </div>
