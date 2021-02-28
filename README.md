@@ -1,5 +1,5 @@
 # About me
-### I’m currently learning Software engineering with C# at Software University 👋
+:mortar_board:### Hello! I'm Vasil Dimitrov and I’m currently learning Software engineering with C# at Software University :mortar_board:
 <br/>
 
 <!--[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=VasilDimitroff&layout=compact)](https://github.com/VasilDimitroff/github-readme-stats) -->
