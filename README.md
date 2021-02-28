@@ -4,15 +4,13 @@
 
 <!--[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=VasilDimitroff&layout=compact)](https://github.com/VasilDimitroff/github-readme-stats) -->
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=VasilDimitroff&layout=compact)](https://github.com/VasilDimitroff/github-readme-stats)
-<style>
-  .center {
+
+<div style=".center {
   margin: auto;
   width: 50%;
   border: 3px solid green;
   padding: 10px;
-}
- </style>
-<div class="center">
+}">
 <table>
   <tr>
     <th><b>Contact me</b></th>
