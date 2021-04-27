@@ -32,5 +32,10 @@
     <td></td>
     <td>✔️ <a href="https://softuni.bg/certificates/details/97936/fe7d3b0e" target="_blank">MS SQL Server 2021</a></td>
   </tr>
+  <tr>
+    <tr>
+    <td></td>
+    <td>✔️ <a href="https://softuni.bg/certificates/details/102596/b20df1d1" target="_blank">Entity Framework Core 2021</a></td>
+  </tr>
 </table>
 
