@@ -37,5 +37,10 @@
     <td></td>
     <td>✔️ <a href="https://softuni.bg/certificates/details/102596/b20df1d1" target="_blank">Entity Framework Core 2021</a></td>
   </tr>
+  <tr>
+    <tr>
+    <td></td>
+    <td>✔️ <a href="https://softuni.bg/certificates/details/109374/fbf806f7" target="_blank">C# Web Basics 2021</a></td>
+  </tr>
 </table>
 
