@@ -3,8 +3,6 @@
 <br/>
 
 <!--[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=VasilDimitroff&layout=compact)](https://github.com/VasilDimitroff/github-readme-stats) -->
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=VasilDimitroff&layout=compact)](https://github.com/VasilDimitroff?tab=repositories)
-
 <table>
   <tr>
     <th><b>Contact me</b></th>
